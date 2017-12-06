@@ -1,0 +1,103 @@
+.bck {
+    background-image: url('../images/back1.jpg');
+    background-size: contain;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.sociallinks ul li{
+    display:inline-block;
+}
+.container1 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.tour-package-main-title {
+    /*padding: 5px;*/
+}
+
+.tour-package-title {
+    background: #93c92b;
+    padding: 10px;
+    margin-bottom: 0px;
+    font-size: 16px;
+    color: #fff;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+}
+
+.tour-package {
+    margin: 0px 20px 20px 20px;
+    padding: 8px;
+    background: #eff0f0;
+    clear: both;
+    min-height: 150px;
+}
+
+.image {
+    float: left;
+}
+
+.details {
+    /*float: left;*/
+    margin-top: 10px;
+}
+
+.itinerary {
+    margin: 0px 20px 20px 20px;
+    padding: 8px;
+    background: #eff0f0;
+    clear: both;
+    min-height: 150px;
+    height: 200px;
+}
+
+.footerdetail {
+    margin-top:10px;
+    background-color: #2C3E50;
+    color: white;
+    padding-bottom:20px;
+}
+
+
+.footers
+{
+    text-align:center;
+    background-color:black;
+    color:white;
+}
+
+.chester {
+    background-color: #eff0f0;
+    padding: 20px;
+}
+
+    .chester img {
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+    }
+
+.review {
+   
+    background-color:#56ab2f;  /* fallback for old browsers */ background: -webkit-linear-gradient(to right, #a8e063, #56ab2f); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #a8e063, #56ab2f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    height: 50px;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 5px;
+    margin-top: 15px;
+}
+
+    .review h2 {
+        margin: 0;
+        padding: 0;
+}
+
+   
