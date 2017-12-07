@@ -1,2 +1,2 @@
 # P-KA-girls
-# Couldn't export database
+exported database to microsoft excel
