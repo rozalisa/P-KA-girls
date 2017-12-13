@@ -69,7 +69,6 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="book.aspx" />
     <Content Include="canyoning.aspx" />
     <Content Include="chitwan.aspx" />
     <Content Include="fourdaystour.aspx" />
@@ -164,7 +163,6 @@
     <Content Include="Scripts\jquery-3.1.1.slim.js" />
     <Content Include="Scripts\jquery-3.1.1.slim.min.js" />
     <Content Include="trekking.aspx" />
-    <Content Include="WebForm1.aspx" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap.css.map" />
@@ -223,13 +221,6 @@
     </Compile>
     <Compile Include="about.aspx.designer.cs">
       <DependentUpon>about.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="book.aspx.cs">
-      <DependentUpon>book.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="book.aspx.designer.cs">
-      <DependentUpon>book.aspx</DependentUpon>
     </Compile>
     <Compile Include="canyoning.aspx.cs">
       <DependentUpon>canyoning.aspx</DependentUpon>
@@ -329,13 +320,6 @@
     </Compile>
     <Compile Include="trekking.aspx.designer.cs">
       <DependentUpon>trekking.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="WebForm1.aspx.cs">
-      <DependentUpon>WebForm1.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="WebForm1.aspx.designer.cs">
-      <DependentUpon>WebForm1.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup />
